@@ -1,3 +1,4 @@
+//array for spcial characters
 var specialCharacters = [
     '@',
     '%',
@@ -23,9 +24,10 @@ var specialCharacters = [
     '_',
     '.',
   ];
-
+//arrya  for numbers
   var numericCharacters = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
 
+  //array for lower case letters
   var lowerCasedCharacters = [
     'a',
     'b',
@@ -53,4 +55,34 @@ var specialCharacters = [
     'x',
     'y',
     'z',
+  ];
+
+  //array for upper case letters
+  var upperCasedCharacters = [
+    'A',
+    'B',
+    'C',
+    'D',
+    'E',
+    'F',
+    'G',
+    'H',
+    'I',
+    'J',
+    'K',
+    'L',
+    'M',
+    'N',
+    'O',
+    'P',
+    'Q',
+    'R',
+    'S',
+    'T',
+    'U',
+    'V',
+    'W',
+    'X',
+    'Y',
+    'Z',
   ];
